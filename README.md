@@ -1,6 +1,6 @@
 ### About Me:
 
-### <h2 align="center">Hey 👋, I'm Anubhav Pathak!</h2>
+### <h2 align="center">Hi EveryOne👋, I'm Anubhav Pathak!</h2>
 <ul>
   <li>🔭 I’m currently pursuing my Bachelor's from DTU in ECE branch  </li>
   <li>🌱 I’m currently learning Web Development and Exploring Different field's </li>
